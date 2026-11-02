@@ -65,7 +65,7 @@ All figures are **measured** on synthetic sheets, in French. A single run per ve
 
 ## Another project in this portfolio
 
-[Support-request triage and draft-reply assistant](https://github.com/pxulng/assistant-support-client): same evaluation approach (no-AI baseline, validation set, two models compared, human check, error log) on a different use case.
+[Support-request triage and draft-reply assistant](https://github.com/pxulng/customer-support-en): same evaluation approach (no-AI baseline, validation set, two models compared, human check, error log) on a different use case.
 
 ## Author
 
